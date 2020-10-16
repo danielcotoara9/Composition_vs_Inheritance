@@ -1,5 +1,5 @@
 
- - Story
+ - Story : 
     Create a game in which some monsters (crocodile, orc, horse, ...).
 
     - Phase_1 - First create the Monster class (with 2 properties HitPoints and AttackDamage)
