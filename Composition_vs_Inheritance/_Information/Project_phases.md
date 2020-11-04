@@ -1,8 +1,9 @@
 
  - Story : 
-    Create a game in which some monsters (crocodile, orc, horse, ...).
+    Create a game in which some monsters (crocodile, orc, horse, ...) can perform some actions.
 
     - Phase_1 - First create the Monster class (with 2 properties HitPoints and AttackDamage)
+
     - Phase_2 - After a while we need to create let's say 3 types of monster
         - Monster that attack by: 
             - biting.

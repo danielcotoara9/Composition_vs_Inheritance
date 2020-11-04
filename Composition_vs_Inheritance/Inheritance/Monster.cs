@@ -2,5 +2,12 @@
 {
     public class Monster
     {
+        public int HitPoints;
+
+        public Monster(int hitPoints)
+        {
+            HitPoints = hitPoints;
+        }
+
     }
 }
